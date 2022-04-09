@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c0d7cd88-cec5-4f4a-af98-e7d5ff3a4b4d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "We regulate power from XXV to 5V and 3.3V" (at 132.08 43.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8f756916-5d57-49ae-a52b-23172f54a6bc)
+  )
+)
