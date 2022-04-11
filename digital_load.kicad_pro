@@ -386,7 +386,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 19,
+    "annotate_start_num": 59,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
@@ -447,6 +447,10 @@
     [
       "529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1",
       "Power"
+    ],
+    [
+      "11d31551-6b90-4100-ba99-1670ebabb6ef",
+      "usb_uart"
     ]
   ],
   "text_variables": {}
