@@ -442,7 +442,7 @@
       (reference "#PWR0138") (unit 1) (value "+5V") (footprint "")
     )
     (path "/86919485-4d16-4938-9e70-3e52b129563d/a319df8e-b54a-4cf6-b60f-af33d57c7ad6"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
     )
     (path "/86919485-4d16-4938-9e70-3e52b129563d/addc4a71-c14e-4fb4-a6b9-7bcf2e50cf26"
       (reference "C10") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -568,10 +568,10 @@
       (reference "R10") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/86919485-4d16-4938-9e70-3e52b129563d/bfa347ee-29a1-4fa6-bd17-f85f8a9abc80"
-      (reference "R11") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R11") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/86919485-4d16-4938-9e70-3e52b129563d/1142d0b4-3f0c-400a-95f4-56b82d3f695d"
-      (reference "R12") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R12") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/86919485-4d16-4938-9e70-3e52b129563d/b8576b39-1899-434e-a216-d803d9a57b8b"
       (reference "R13") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
