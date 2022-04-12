@@ -67,7 +67,7 @@
     (uuid b4c3421c-ba88-4a7d-bcab-53ea3f9200e7)
   )
 
-  (wire (pts (xy 137.16 73.66) (xy 137.16 82.55))
+  (wire (pts (xy 137.16 72.39) (xy 137.16 82.55))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ba375b98-f574-4bfb-919a-0730358def28)
   )
@@ -102,7 +102,7 @@
     (uuid f2e1597f-3a94-4931-b8ac-205f2ec50dec)
   )
 
-  (wire (pts (xy 90.17 73.66) (xy 137.16 73.66))
+  (wire (pts (xy 90.17 72.39) (xy 137.16 72.39))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f5c12e38-7921-4ff8-a303-20c58fa9cb9f)
   )
@@ -441,6 +441,12 @@
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/7cb778b8-a4ce-416f-bd43-8edfcb587cb0"
       (reference "#PWR0138") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/86919485-4d16-4938-9e70-3e52b129563d/a319df8e-b54a-4cf6-b60f-af33d57c7ad6"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/86919485-4d16-4938-9e70-3e52b129563d/addc4a71-c14e-4fb4-a6b9-7bcf2e50cf26"
+      (reference "C10") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/047fbb72-cf84-4710-a4c8-84372e31468c"
       (reference "C20") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -643,7 +649,7 @@
       (reference "R66") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/93d8f2b9-eabf-4c72-9db7-84e534df64e2"
-      (reference "SW30") (unit 1) (value "PEC11R") (footprint "")
+      (reference "SW30") (unit 1) (value "PEC11R") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm")
     )
     (path "/86919485-4d16-4938-9e70-3e52b129563d/8b9d4484-f0e4-47fd-8e65-92dddf3da029"
       (reference "U10") (unit 1) (value "PIC18F24K42") (footprint "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm")

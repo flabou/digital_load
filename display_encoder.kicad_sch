@@ -928,7 +928,7 @@
     (uuid 93d8f2b9-eabf-4c72-9db7-84e534df64e2)
     (property "Reference" "SW30" (id 0) (at 170.18 68.58 0))
     (property "Value" "PEC11R" (id 1) (at 170.18 71.12 0))
-    (property "Footprint" "" (id 2) (at 166.37 74.676 0)
+    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm" (id 2) (at 166.37 74.676 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 170.18 72.136 0)

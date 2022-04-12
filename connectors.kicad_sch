@@ -845,7 +845,7 @@
   )
 
   (no_connect (at 60.96 125.73) (uuid 7bfbbc5f-3758-4a9b-ae23-8507aae1abe4))
-  (no_connect (at 60.96 128.27) (uuid 7bfbbc5f-3758-4a9b-ae23-8507aae1abe4))
+  (no_connect (at 60.96 128.27) (uuid 7bfbbc5f-3758-4a9b-ae23-8507aae1abe5))
 
   (bus_entry (at 218.44 49.53) (size -2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
