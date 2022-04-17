@@ -1630,7 +1630,7 @@
     (property "Value" "100n" (id 1) (at 135.89 72.3962 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 133.35 71.12 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 133.35 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.35 71.12 0)
