@@ -1,8 +1,10 @@
 fp-info-cache
 datasheet
 *backups/
+img/
 
 # Unlicensed step files
 step/pioled.step
 step/pec11r-4215k-n0024.stp
+step/USB4085-GF-A.STEP
 
