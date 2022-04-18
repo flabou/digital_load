@@ -2,3 +2,7 @@ fp-info-cache
 datasheet
 *backups/
 
+# Unlicensed step files
+step/pioled.step
+step/pec11r-4215k-n0024.stp
+
