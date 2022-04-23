@@ -501,8 +501,8 @@
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/e950ba2a-96bf-4d41-949e-073bdfc34329"
       (reference "FB60") (unit 1) (value "FerriteBead") (footprint "Inductor_SMD:L_0805_2012Metric")
     )
-    (path "/b9283ecb-6055-4d8e-90be-13b597248a91/f230f4bd-679f-49a3-ad7b-7ef686af4636"
-      (reference "HS20") (unit 1) (value "Heatsink") (footprint "")
+    (path "/b9283ecb-6055-4d8e-90be-13b597248a91/15ddcf65-097a-4ebc-8b1a-f46b864028d2"
+      (reference "HS20") (unit 1) (value "Heatsink_Pad") (footprint "0_Heatsink:Heatsink_ASSMANN_WSW_V6560W")
     )
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/4f4cdfd0-3774-4e50-8f71-e083d7936ee5"
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
@@ -532,7 +532,7 @@
       (reference "JP13") (unit 1) (value "SB") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/37b9ce2e-4d75-4217-830d-d5613ad297c1"
-      (reference "Q20") (unit 1) (value "IPA60R800CE") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
+      (reference "Q20") (unit 1) (value "IPA60R800CE") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/e68a001f-cb70-45a5-adee-04178ad0205f"
       (reference "Q21") (unit 1) (value "Q_NMOS_DGS") (footprint "Package_TO_SOT_SMD:SOT-23")
