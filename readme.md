@@ -10,4 +10,8 @@ Intended features are:
 - USB serial interface, maybe to control from computer and read measured current points, this would allow to specify curve for the load for instance, if there's a use for it.
 
 # Screenshots
-![Render of the WIP board](https://user-images.githubusercontent.com/6578006/163867604-268285c4-cfab-4cc6-aafa-677ffd53e3f9.png)
+
+![Render of the WIP board (top)](https://user-images.githubusercontent.com/6578006/164995171-83aff471-13d9-422e-bfa7-a72b0c995981.jpg)
+
+![Render of the WIP board (perspective)](https://user-images.githubusercontent.com/6578006/164995175-26a30472-c773-4804-bde0-5d0d12f0daee.jpg)
+

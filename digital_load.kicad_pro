@@ -398,7 +398,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 59,
+    "annotate_start_num": 0,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
@@ -441,12 +441,16 @@
       ""
     ],
     [
+      "f4f89a23-25ef-48cf-b1e7-482fc7d24406",
+      "Connectors"
+    ],
+    [
       "86919485-4d16-4938-9e70-3e52b129563d",
       "microcontroller"
     ],
     [
-      "f4f89a23-25ef-48cf-b1e7-482fc7d24406",
-      "Connectors"
+      "11d31551-6b90-4100-ba99-1670ebabb6ef",
+      "usb_uart"
     ],
     [
       "b9283ecb-6055-4d8e-90be-13b597248a91",
@@ -459,10 +463,6 @@
     [
       "529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1",
       "Power"
-    ],
-    [
-      "11d31551-6b90-4100-ba99-1670ebabb6ef",
-      "usb_uart"
     ]
   ],
   "text_variables": {}
