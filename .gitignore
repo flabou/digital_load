@@ -2,6 +2,9 @@ fp-info-cache
 datasheet
 *backups/
 img/
+\#auto_saved_files#
+*__pycache__*
+gerber_x2/
 
 # Unlicensed step files
 step/pioled.step
