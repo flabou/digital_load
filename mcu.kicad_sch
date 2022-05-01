@@ -1793,7 +1793,7 @@
     (property "Manufacturer" "Texas Instruments" (id 4) (at 59.69 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PartNumber" "LM4040C20IDBZ" (id 5) (at 59.69 44.45 0)
+    (property "PartNumber" "LM4040C20QDBZT" (id 5) (at 59.69 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 80570c7f-b380-408f-bc93-3fec2827057a))

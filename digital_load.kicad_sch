@@ -486,6 +486,9 @@
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/d84b2b11-d9c7-49a3-9a0b-13d13d89e514"
       (reference "#PWR0706") (unit 1) (value "GND") (footprint "")
     )
+    (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/0c17e9f5-679b-43fa-9d4a-8b93662cdd75"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/86919485-4d16-4938-9e70-3e52b129563d/addc4a71-c14e-4fb4-a6b9-7bcf2e50cf26"
       (reference "C301") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -671,6 +674,12 @@
     )
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/f1a979cb-a0de-49c2-8714-d76e5feacd12"
       (reference "R701") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/2e306457-a203-45bd-8828-39a6fc7884b5"
+      (reference "R702") (unit 1) (value "200k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/4ccfd65d-315c-427e-ab6f-89065cc5c0a2"
+      (reference "R703") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/93d8f2b9-eabf-4c72-9db7-84e534df64e2"
       (reference "SW601") (unit 1) (value "PEC11R") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm")
