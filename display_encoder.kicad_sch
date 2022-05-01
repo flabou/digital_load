@@ -804,7 +804,7 @@
   )
 
   (symbol (lib_id "Device:R_US") (at 149.86 69.85 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 33b2d66b-b7f6-4224-9b6d-71b153f59d33)
     (property "Reference" "R601" (id 0) (at 149.86 73.66 90))
     (property "Value" "" (id 1) (at 149.86 76.2 90))
@@ -914,7 +914,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 137.16 73.66 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 8a8194c7-98a2-43c9-be18-8916670c65d4)
     (property "Reference" "C601" (id 0) (at 140.97 72.3899 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -963,7 +963,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 137.16 91.44 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 98cb5db7-e0fe-49f9-a523-d65c4942c3a7)
     (property "Reference" "C602" (id 0) (at 140.97 90.1699 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1004,7 +1004,7 @@
   )
 
   (symbol (lib_id "Device:R_US") (at 153.67 66.04 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a40522c4-4dae-4961-92cb-746b178e9126)
     (property "Reference" "R603" (id 0) (at 147.32 66.04 90))
     (property "Value" "" (id 1) (at 149.86 66.04 90))
@@ -1025,7 +1025,7 @@
   )
 
   (symbol (lib_id "Device:R_US") (at 180.34 69.85 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a93b86a8-53d9-4629-bf00-a3833ea03ae6)
     (property "Reference" "R605" (id 0) (at 184.15 69.85 90))
     (property "Value" "" (id 1) (at 186.69 69.85 90))
@@ -1062,7 +1062,7 @@
   )
 
   (symbol (lib_id "Device:R_US") (at 149.86 87.63 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d46037de-dcd4-4513-b88f-f4040b52e0ab)
     (property "Reference" "R602" (id 0) (at 149.86 91.44 90))
     (property "Value" "" (id 1) (at 149.86 93.98 90))
@@ -1099,7 +1099,7 @@
   )
 
   (symbol (lib_id "Device:R_US") (at 158.75 66.04 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid fd327c68-2761-4355-a383-76351fecda5b)
     (property "Reference" "R604" (id 0) (at 162.56 66.04 90))
     (property "Value" "" (id 1) (at 165.1 66.04 90))

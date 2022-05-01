@@ -793,7 +793,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 73.66 87.63 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 00b8642f-e8da-4dd4-9a87-9c4e4a3b967d)
     (property "Reference" "C402" (id 0) (at 76.2 86.3662 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -970,7 +970,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 82.55 73.66 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 6b2bdcab-2640-495b-b6ed-68782f720fc9)
     (property "Reference" "C403" (id 0) (at 85.09 72.3962 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1011,7 +1011,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 166.37 80.01 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 712da4d5-23e9-4188-8247-28c95f6cb449)
     (property "Reference" "C407" (id 0) (at 168.91 78.7462 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1052,7 +1052,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 147.32 72.39 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 788e378d-30bf-4467-a509-d841606f264b)
     (property "Reference" "C405" (id 0) (at 149.86 71.1262 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1093,7 +1093,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 157.48 72.39 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a051f414-becc-47a3-a4d8-a22a9af77874)
     (property "Reference" "C406" (id 0) (at 160.02 71.1262 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1134,7 +1134,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 92.71 73.66 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid af9936dd-845b-45fd-a083-e4782ad8a447)
     (property "Reference" "C404" (id 0) (at 95.25 72.3962 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1159,7 +1159,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 48.26 73.66 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid c3571a90-f3db-4d0f-b074-e6cc898f7921)
     (property "Reference" "C408" (id 0) (at 50.8 72.3962 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1184,7 +1184,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 72.39 73.66 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid ddbed9de-3c18-4921-ac15-74a5f80a6626)
     (property "Reference" "C401" (id 0) (at 74.93 72.3962 0)
       (effects (font (size 1.27 1.27)) (justify left))

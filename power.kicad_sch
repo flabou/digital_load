@@ -443,7 +443,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 180.34 67.31 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 20fe49e1-cf30-4df1-8f2e-8ac531c09398)
     (property "Reference" "C702" (id 0) (at 184.15 66.0399 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -516,7 +516,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 129.54 67.31 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid b10225d6-f680-42c7-b100-ca659c4aaf46)
     (property "Reference" "C701" (id 0) (at 133.35 66.0399 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -584,7 +584,7 @@
   )
 
   (symbol (lib_id "Device:R_US") (at 142.24 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid f1a979cb-a0de-49c2-8714-d76e5feacd12)
     (property "Reference" "R701" (id 0) (at 138.43 76.2 90))
     (property "Value" "" (id 1) (at 135.89 76.2 90))

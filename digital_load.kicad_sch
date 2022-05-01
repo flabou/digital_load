@@ -697,22 +697,22 @@
       (reference "U402") (unit 1) (value "CH340C") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/702e3009-02f7-48f4-8d06-9c81cedd03fc"
-      (reference "U501") (unit 1) (value "LM358") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+      (reference "U501") (unit 1) (value "LM2904BA") (footprint "Package_SO:TSSOP-8_4.4x3mm_P0.65mm")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/6aad688d-03f5-4345-9fdf-fc45004b24a0"
-      (reference "U501") (unit 2) (value "LM358") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+      (reference "U501") (unit 2) (value "LM2904BA") (footprint "Package_SO:TSSOP-8_4.4x3mm_P0.65mm")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/1cd4b1d5-89fe-4ad8-b590-c04a7a2b393b"
-      (reference "U501") (unit 3) (value "LM358") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+      (reference "U501") (unit 3) (value "LM2904BA") (footprint "Package_SO:TSSOP-8_4.4x3mm_P0.65mm")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/18f8feb0-964d-4957-871a-4338f0073adb"
-      (reference "U502") (unit 1) (value "LM358") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+      (reference "U502") (unit 1) (value "LM2904BA") (footprint "Package_SO:TSSOP-8_4.4x3mm_P0.65mm")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/cbc87dc5-60b1-44ef-8261-2bd940430737"
-      (reference "U502") (unit 2) (value "LM358") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+      (reference "U502") (unit 2) (value "LM2904BA") (footprint "Package_SO:TSSOP-8_4.4x3mm_P0.65mm")
     )
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/4960cdc8-27e7-4043-8fee-e32ad834e15c"
-      (reference "U502") (unit 3) (value "LM358") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+      (reference "U502") (unit 3) (value "LM2904BA") (footprint "Package_SO:TSSOP-8_4.4x3mm_P0.65mm")
     )
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/37c79daf-210c-419f-b444-8b21993bca12"
       (reference "U601") (unit 1) (value "Adafruit_PiOLED") (footprint "0_Display:PiOLED")
