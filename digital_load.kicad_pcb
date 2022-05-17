@@ -171,6 +171,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/ccd9972f-5603-4d19-a8c9-d025cd6dcc82")
     (attr smd exclude_from_bom)
     (fp_text reference "R305" (at 3.7 0.004984) (layer "F.SilkS") hide
@@ -216,6 +217,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/b8576b39-1899-434e-a216-d803d9a57b8b")
     (attr smd exclude_from_bom)
     (fp_text reference "R306" (at -0.00254 -1.815938 90) (layer "F.SilkS") hide
@@ -261,6 +263,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/72564f47-f9d9-4c1d-8b8a-00b4d31f74e4")
     (attr smd exclude_from_bom)
     (fp_text reference "R303" (at 3.7125 0.459968) (layer "F.SilkS") hide
@@ -306,6 +309,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/1c61f331-fa92-48e1-9819-ab0be4ebf718")
     (attr smd exclude_from_bom)
     (fp_text reference "R501" (at -0.95427 -1.6) (layer "F.SilkS") hide
@@ -351,6 +355,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/047fbb72-cf84-4710-a4c8-84372e31468c")
     (attr smd exclude_from_bom)
     (fp_text reference "C501" (at 0 -1.68 90) (layer "F.SilkS") hide
@@ -395,6 +400,7 @@
     (property "PartNumber" "PJA3404_R1_00001")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/95c3a67d-e3e7-454e-b0a8-0e33e183cc64")
     (attr smd)
     (fp_text reference "Q504" (at -0.4874 -2.6) (layer "F.SilkS")
@@ -440,11 +446,13 @@
     (at 115.849592 117.188666 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
+    (property "DNP" "x")
     (property "Manufacturer" "Generic")
     (property "PartNumber" "Generic")
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/a051f414-becc-47a3-a4d8-a22a9af77874")
     (attr smd exclude_from_bom)
     (fp_text reference "C406" (at 3.239975 0.092543 90) (layer "F.SilkS") hide
@@ -490,6 +498,7 @@
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "Power")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/4ccfd65d-315c-427e-ab6f-89065cc5c0a2")
     (attr smd exclude_from_bom)
     (fp_text reference "R703" (at 3.932284 0.145253) (layer "F.SilkS") hide
@@ -535,6 +544,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/6953cc6f-062c-43f9-81c1-45b389b573fd")
     (attr smd exclude_from_bom)
     (fp_text reference "R505" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -580,6 +590,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/9548552b-9f61-4952-9af2-3aaf42b407dc")
     (attr smd exclude_from_bom)
     (fp_text reference "R507" (at 0 -1.65) (layer "F.SilkS") hide
@@ -624,6 +635,7 @@
     (property "PartNumber" "PEC11R-4215F-S0024")
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/93d8f2b9-eabf-4c72-9db7-84e534df64e2")
     (attr through_hole)
     (fp_text reference "SW601" (at -2.525 2.55 180) (layer "F.SilkS")
@@ -699,6 +711,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/d281e302-963d-4e62-8db4-039301c9dfc3")
     (attr smd exclude_from_bom)
     (fp_text reference "R502" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -744,6 +757,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/1516ba09-5399-45fa-a362-0797687779e6")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP300" (at 0 -1.448) (layer "F.SilkS") hide
@@ -774,6 +788,7 @@
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/ddbed9de-3c18-4921-ac15-74a5f80a6626")
     (attr smd exclude_from_bom)
     (fp_text reference "C401" (at 3.85 0.479618) (layer "F.SilkS") hide
@@ -819,6 +834,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/06a27df6-acf2-4d4c-a5d1-f38c7953434d")
     (attr smd exclude_from_bom)
     (fp_text reference "R509" (at 0.274295 -2.355405) (layer "F.SilkS") hide
@@ -863,6 +879,7 @@
     (property "PartNumber" "PJA3404_R1_00001")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/f7bd35a0-6a1e-4a56-81af-b3b82a2e5670")
     (attr smd)
     (fp_text reference "Q503" (at -0.415781 -2.6) (layer "F.SilkS")
@@ -913,6 +930,7 @@
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/98cb5db7-e0fe-49f9-a523-d65c4942c3a7")
     (attr smd exclude_from_bom)
     (fp_text reference "C602" (at 0.025 -1.584563 90) (layer "F.SilkS") hide
@@ -958,6 +976,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/250cc395-d619-4dc2-820b-2c96de9f2e43")
     (attr smd exclude_from_bom)
     (fp_text reference "R503" (at 0 -1.65) (layer "F.SilkS") hide
@@ -1003,6 +1022,7 @@
     (property "Sheetfile" "connectors.kicad_sch")
     (property "Sheetname" "Connectors")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/d5aee4d9-9afb-418a-8da7-f8e60ebd96b3")
     (attr through_hole exclude_from_bom)
     (fp_text reference "J4" (at -1.975 5.825 270) (layer "F.SilkS")
@@ -1069,6 +1089,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/76c4bae1-939a-410f-9c6e-2f0f3fd57955")
     (attr smd exclude_from_bom)
     (fp_text reference "R510" (at 0.490781 -2.405405) (layer "F.SilkS") hide
@@ -1113,6 +1134,7 @@
     (property "PartNumber" "MH2029-400Y")
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/e950ba2a-96bf-4d41-949e-073bdfc34329")
     (attr smd)
     (fp_text reference "FB401" (at 2.769592 -1.495382) (layer "F.SilkS")
@@ -1158,6 +1180,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/195a4740-6d7f-4f16-91d8-394983f97cd7")
     (attr smd exclude_from_bom)
     (fp_text reference "R508" (at 0.7625 -1.621175) (layer "F.SilkS") hide
@@ -1203,6 +1226,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/c5dcd122-c734-4965-bd4a-69f6d80a0ede")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP303" (at 0 -1.8 90) (layer "F.SilkS") hide
@@ -1257,6 +1281,7 @@
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "Power")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/20fe49e1-cf30-4df1-8f2e-8ac531c09398")
     (attr smd exclude_from_bom)
     (fp_text reference "C702" (at -3.570714 -0.040053) (layer "F.SilkS") hide
@@ -1301,6 +1326,7 @@
     (property "PartNumber" "LP2951-30D")
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "Power")
+    (property "variant" "")
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/d309b901-d427-45e9-9781-a23820b0702f")
     (attr smd)
     (fp_text reference "U701" (at -0.000576 0.1) (layer "F.SilkS")
@@ -1361,6 +1387,7 @@
     (property "Sheetfile" "connectors.kicad_sch")
     (property "Sheetname" "Connectors")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/0826cd4a-7406-45bc-8c91-857b62ab0341")
     (attr through_hole exclude_from_bom)
     (fp_text reference "J3" (at 2.675 12.1 90) (layer "F.SilkS")
@@ -1427,6 +1454,7 @@
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/8a8194c7-98a2-43c9-be18-8916670c65d4")
     (attr smd exclude_from_bom)
     (fp_text reference "C601" (at 5.575 -2.350729 -270) (layer "F.SilkS") hide
@@ -1472,6 +1500,7 @@
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/d46037de-dcd4-4513-b88f-f4040b52e0ab")
     (attr smd exclude_from_bom)
     (fp_text reference "R602" (at 0.0375 1.875 90) (layer "F.SilkS") hide
@@ -1517,6 +1546,7 @@
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/33b2d66b-b7f6-4224-9b6d-71b153f59d33")
     (attr smd exclude_from_bom)
     (fp_text reference "R601" (at 3.697611 -2.35 90) (layer "F.SilkS") hide
@@ -1561,6 +1591,7 @@
     (property "PartNumber" "SP0503BAHTG")
     (property "Sheetfile" "connectors.kicad_sch")
     (property "Sheetname" "Connectors")
+    (property "variant" "main_only")
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/ef3ce449-ab7e-4cb5-b283-b21fcdbc7866")
     (attr smd)
     (fp_text reference "D1" (at 2.7625 -1.0625 90) (layer "F.SilkS")
@@ -1610,6 +1641,7 @@
     (property "PartNumber" "LM2904BAIPWR")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/702e3009-02f7-48f4-8d06-9c81cedd03fc")
     (attr smd)
     (fp_text reference "U501" (at -1.13698 -2.802912 -90) (layer "F.SilkS")
@@ -1665,11 +1697,13 @@
     (at 113.119975 126.425 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
+    (property "DNP" "x")
     (property "Manufacturer" "Generic")
     (property "PartNumber" "Generic")
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/7a2f3595-7d70-49fe-84db-ef115f3192f9")
     (attr smd exclude_from_bom)
     (fp_text reference "C409" (at 0.069975 -1.95) (layer "F.SilkS") hide
@@ -1710,11 +1744,13 @@
     (at 113.119975 124.408186 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
+    (property "DNP" "x")
     (property "Manufacturer" "Generic")
     (property "PartNumber" "Generic")
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/788e378d-30bf-4467-a509-d841606f264b")
     (attr smd exclude_from_bom)
     (fp_text reference "C405" (at 3.694975 0.558186) (layer "F.SilkS") hide
@@ -1757,6 +1793,7 @@
     (property "PartNumber" "V6560W")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/15ddcf65-097a-4ebc-8b1a-f46b864028d2")
     (attr through_hole)
     (fp_text reference "HS501" (at -5.175 -1.45 unlocked) (layer "F.SilkS")
@@ -1817,7 +1854,7 @@
     (fp_line (start -13.5 2.78388) (end -13.5 8.25) (layer "F.CrtYd") (width 0.05) (tstamp e92e205b-2c7b-4b57-8bab-627469835bc6))
     (fp_arc (start 15 8.25) (mid 14.25 9) (end 13.5 8.25) (layer "F.CrtYd") (width 0.05) (tstamp 1daa1a06-bea4-4a56-9e8d-b5f997c9ae97))
     (fp_arc (start -10.4 0) (mid -11.162952 1.711583) (end -12.946427 2.286761) (layer "F.CrtYd") (width 0.05) (tstamp 1fa06c07-4b74-4a79-a9ba-d03e37b3e225))
-    (fp_arc (start 12.453571 2.286756) (mid 13.199883 2.669046) (end 13.5 3.45201) (layer "F.CrtYd") (width 0.05) (tstamp 34624d52-b04d-454a-905e-9319f9d18c3c))
+    (fp_arc (start 12.453571 2.286756) (mid 13.199846 2.669053) (end 13.5 3.45201) (layer "F.CrtYd") (width 0.05) (tstamp 34624d52-b04d-454a-905e-9319f9d18c3c))
     (fp_arc (start 9.25 8.25) (mid 8.5 9) (end 7.75 8.25) (layer "F.CrtYd") (width 0.05) (tstamp 401ec033-7720-4cc5-a602-4fe2a7262a77))
     (fp_arc (start -13.5 2.78388) (mid -13.334141 2.411796) (end -12.946429 2.286758) (layer "F.CrtYd") (width 0.05) (tstamp 43d3085d-b713-4a17-b53b-2606a468ddb5))
     (fp_arc (start -13.5 8.25) (mid -14.25 9) (end -15 8.25) (layer "F.CrtYd") (width 0.05) (tstamp 4a14c9e6-4f28-416f-b2c6-b03ecc543893))
@@ -1903,6 +1940,7 @@
     (property "PartNumber" "PIC18F24K42")
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/8b9d4484-f0e4-47fd-8e65-92dddf3da029")
     (attr smd)
     (fp_text reference "U302" (at 2.5125 -6.6) (layer "F.SilkS")
@@ -2006,6 +2044,7 @@
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "Power")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/b10225d6-f680-42c7-b100-ca659c4aaf46")
     (attr smd exclude_from_bom)
     (fp_text reference "C701" (at -0.227657 1.794768 90) (layer "F.SilkS") hide
@@ -2051,6 +2090,7 @@
     (property "Sheetfile" "connectors.kicad_sch")
     (property "Sheetname" "Connectors")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/4f4cdfd0-3774-4e50-8f71-e083d7936ee5")
     (attr through_hole exclude_from_bom)
     (fp_text reference "J1" (at -2.1 1.375 180) (layer "F.SilkS")
@@ -2130,6 +2170,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/c658bcc8-3689-46fd-899a-79667a942779")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP304" (at -0.29004 -1.634268 90) (layer "F.SilkS") hide
@@ -2184,6 +2225,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/b0e38842-ac03-4c5b-8a1e-55adbb4b8c0c")
     (attr smd exclude_from_bom)
     (fp_text reference "C502" (at 0.02 1.601878 90) (layer "F.SilkS") hide
@@ -2229,6 +2271,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/535d2783-f76a-48f1-a69c-d1273e19095e")
     (attr smd exclude_from_bom)
     (fp_text reference "R511" (at 3.0624 -0.855405 90) (layer "F.SilkS") hide
@@ -2274,6 +2317,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/8f78d8c8-260d-4e5d-9435-a7168a0aeac1")
     (attr smd exclude_from_bom)
     (fp_text reference "R304" (at -0.025 -1.95) (layer "F.SilkS") hide
@@ -2318,6 +2362,7 @@
     (property "PartNumber" "SD101AWS-TP")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/645af00f-5f31-406b-a361-463bfedae4ee")
     (attr smd)
     (fp_text reference "D501" (at -0.064071 0.280673 90) (layer "F.SilkS") hide
@@ -2369,6 +2414,7 @@
     (property "PartNumber" "LM4040C20QDBZT")
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/a72dfefb-cdc8-4253-9ef9-e4b08070495c")
     (attr smd)
     (fp_text reference "U301" (at -2.695359 1.325 90) (layer "F.SilkS")
@@ -2418,6 +2464,7 @@
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/a40522c4-4dae-4961-92cb-746b178e9126")
     (attr smd exclude_from_bom)
     (fp_text reference "R603" (at 0 -1.65 -270) (layer "F.SilkS") hide
@@ -2463,6 +2510,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/1142d0b4-3f0c-400a-95f4-56b82d3f695d")
     (attr smd exclude_from_bom)
     (fp_text reference "R308" (at -1.35 1.554508) (layer "F.SilkS") hide
@@ -2508,6 +2556,7 @@
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/fd327c68-2761-4355-a383-76351fecda5b")
     (attr smd exclude_from_bom)
     (fp_text reference "R604" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -2553,6 +2602,7 @@
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "Power")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/2e306457-a203-45bd-8828-39a6fc7884b5")
     (attr smd exclude_from_bom)
     (fp_text reference "R702" (at -3.45 1.470253) (layer "F.SilkS") hide
@@ -2597,6 +2647,7 @@
     (property "PartNumber" "LM2904BAIPWR")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/cbc87dc5-60b1-44ef-8261-2bd940430737")
     (attr smd)
     (fp_text reference "U502" (at -0.857429 -2.474202 90) (layer "F.SilkS")
@@ -2656,6 +2707,7 @@
     (property "PartNumber" "FT232RL")
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/30af7f5a-a2e6-4361-ac8c-c2f7754d54ec")
     (attr smd)
     (fp_text reference "U401" (at -0.132436 -0.38 90) (layer "F.SilkS")
@@ -2757,6 +2809,7 @@
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/00b8642f-e8da-4dd4-9a87-9c4e4a3b967d")
     (attr smd exclude_from_bom)
     (fp_text reference "C402" (at -2.945 -0.007861 90) (layer "F.SilkS") hide
@@ -2801,6 +2854,7 @@
     (property "PartNumber" "IRLS640A")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/37b9ce2e-4d75-4217-830d-d5613ad297c1")
     (attr through_hole)
     (fp_text reference "Q501" (at -3.885 -1.07 90) (layer "F.SilkS")
@@ -2856,6 +2910,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/c08d2ab2-6838-4650-8ed1-91aa43992a3f")
     (attr smd exclude_from_bom)
     (fp_text reference "R506" (at 0.036702 -2.130272) (layer "F.SilkS") hide
@@ -2896,11 +2951,13 @@
     (at 110.259975 114.063487 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
+    (property "DNP" "x")
     (property "Manufacturer" "Generic")
     (property "PartNumber" "Generic")
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/712da4d5-23e9-4188-8247-28c95f6cb449")
     (attr smd exclude_from_bom)
     (fp_text reference "C407" (at -0.086513 2.690025) (layer "F.SilkS") hide
@@ -2946,6 +3003,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/2558aced-ac2f-413d-a5b8-fa686926833b")
     (attr smd exclude_from_bom)
     (fp_text reference "R504" (at -0.090412 -2.722133) (layer "F.SilkS") hide
@@ -2991,6 +3049,7 @@
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/c3571a90-f3db-4d0f-b074-e6cc898f7921")
     (attr smd exclude_from_bom)
     (fp_text reference "C408" (at -3.022908 -0.067338) (layer "F.SilkS") hide
@@ -3036,6 +3095,7 @@
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/6b2bdcab-2640-495b-b6ed-68782f720fc9")
     (attr smd exclude_from_bom)
     (fp_text reference "C403" (at 3.351241 0.177598 90) (layer "F.SilkS") hide
@@ -3080,6 +3140,7 @@
     (property "PartNumber" "USB4085")
     (property "Sheetfile" "connectors.kicad_sch")
     (property "Sheetname" "Connectors")
+    (property "variant" "main_only")
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/cd5b35c4-05bf-4ad4-9d68-b0b2d3fa0877")
     (attr through_hole)
     (fp_text reference "J2" (at 9.5875 7.1375 180) (layer "F.SilkS")
@@ -3175,6 +3236,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/29de7807-757e-4f90-b2d8-91840c2db8a7")
     (attr through_hole exclude_from_bom)
     (fp_text reference "J301" (at 0 -2.95 90) (layer "F.SilkS")
@@ -3233,6 +3295,7 @@
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/af9936dd-845b-45fd-a083-e4782ad8a447")
     (attr smd exclude_from_bom)
     (fp_text reference "C404" (at -0.01 1.400063 90) (layer "F.SilkS") hide
@@ -3278,6 +3341,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/14871aeb-46c3-48fa-a3e1-ec735e1d7be9")
     (attr smd exclude_from_bom)
     (fp_text reference "R301" (at 0.15249 1.675) (layer "F.SilkS") hide
@@ -3323,6 +3387,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/addc4a71-c14e-4fb4-a6b9-7bcf2e50cf26")
     (attr smd exclude_from_bom)
     (fp_text reference "C301" (at -0.246767 -1.371594 90) (layer "F.SilkS") hide
@@ -3368,6 +3433,7 @@
     (property "Sheetfile" "connectors.kicad_sch")
     (property "Sheetname" "Connectors")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/3be6efa8-f2a4-4ee3-9dc6-8913a74d2883")
     (attr smd exclude_from_bom)
     (fp_text reference "R1" (at 1.0375 -1.9625 90) (layer "F.SilkS") hide
@@ -3413,6 +3479,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/7a135176-f0e4-48f2-9141-c47828842636")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP301" (at 0 -1.448) (layer "F.SilkS") hide
@@ -3443,6 +3510,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/19714f8a-48fe-443c-a326-7f371f1adfa6")
     (attr smd exclude_from_bom)
     (fp_text reference "C503" (at -0.679986 1.919433 90) (layer "F.SilkS") hide
@@ -3488,6 +3556,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/3755e117-f06e-49e5-910b-4e69254a9d1e")
     (attr smd exclude_from_bom)
     (fp_text reference "R302" (at 0 2.060048) (layer "F.SilkS") hide
@@ -3533,6 +3602,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/861438e2-5fd1-4520-ba62-c5b34790a08f")
     (attr smd exclude_from_bom)
     (fp_text reference "C504" (at 0 -1.68 90) (layer "F.SilkS") hide
@@ -3578,6 +3648,7 @@
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "Power")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/529ea2a4-91e8-461b-9eb6-5bf2a2bc24c1/f1a979cb-a0de-49c2-8714-d76e5feacd12")
     (attr smd exclude_from_bom)
     (fp_text reference "R701" (at -3.8 0.246066 90) (layer "F.SilkS") hide
@@ -3620,6 +3691,7 @@
     (property "PartNumber" "PiOled")
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/37c79daf-210c-419f-b444-8b21993bca12")
     (attr through_hole)
     (fp_text reference "U601" (at -2.575 6.3 unlocked) (layer "F.SilkS")
@@ -3696,6 +3768,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/bfa347ee-29a1-4fa6-bd17-f85f8a9abc80")
     (attr smd exclude_from_bom)
     (fp_text reference "R307" (at 0 1.479508) (layer "F.SilkS") hide
@@ -3736,11 +3809,13 @@
     (at 109.624975 119.183666 -90)
     (descr "SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
+    (property "DNP" "x")
     (property "Manufacturer" "WCH")
     (property "PartNumber" "CH340C")
     (property "Sheetfile" "usb_uart.kicad_sch")
     (property "Sheetname" "usb_uart")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/11d31551-6b90-4100-ba99-1670ebabb6ef/5903d20d-197d-43e0-9c20-c1c097fba539")
     (attr smd exclude_from_bom)
     (fp_text reference "U402" (at -4.858666 2.249975) (layer "F.SilkS")
@@ -3816,6 +3891,7 @@
     (property "PartNumber" "PJA3404_R1_00001")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/e68a001f-cb70-45a5-adee-04178ad0205f")
     (attr smd)
     (fp_text reference "Q502" (at -1.774295 -5.175) (layer "F.SilkS") hide
@@ -3865,6 +3941,7 @@
     (property "PartNumber" "NTCG103JF103FT1")
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/9d9a06c8-e3e9-434e-b113-07973026840b")
     (attr smd)
     (fp_text reference "TH501" (at -3.65 0.189869 180) (layer "F.SilkS")
@@ -3910,6 +3987,7 @@
     (property "Sheetfile" "connectors.kicad_sch")
     (property "Sheetname" "Connectors")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/f4f89a23-25ef-48cf-b1e7-482fc7d24406/8b48df41-a3f4-49d2-b565-f2f0405bfa96")
     (attr smd exclude_from_bom)
     (fp_text reference "R2" (at -0.05 -1.9375 90) (layer "F.SilkS") hide
@@ -3955,6 +4033,7 @@
     (property "Sheetfile" "display_encoder.kicad_sch")
     (property "Sheetname" "Display_Encoder")
     (property "exclude_from_bom" "")
+    (property "variant" "main_only")
     (path "/3a4d7b94-8b26-4555-b396-f2e88aea5db3/a93b86a8-53d9-4629-bf00-a3833ea03ae6")
     (attr smd exclude_from_bom)
     (fp_text reference "R605" (at -1.3596 -1.775 -270) (layer "F.SilkS") hide
@@ -4000,6 +4079,7 @@
     (property "Sheetfile" "load_control.kicad_sch")
     (property "Sheetname" "load_control")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/b9283ecb-6055-4d8e-90be-13b597248a91/92e1891e-7277-45f0-abe8-452724d49b24")
     (attr smd exclude_from_bom)
     (fp_text reference "C505" (at -0.925 -1.448119 90) (layer "F.SilkS") hide
@@ -4045,6 +4125,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/694a41fe-e775-441c-bcd9-127b58faffa2")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP301" (at 0 -1.8 90) (layer "F.SilkS") hide
@@ -4099,6 +4180,7 @@
     (property "Sheetfile" "mcu.kicad_sch")
     (property "Sheetname" "microcontroller")
     (property "exclude_from_bom" "")
+    (property "variant" "")
     (path "/86919485-4d16-4938-9e70-3e52b129563d/cb594199-a8b8-4d67-ae02-e192ed56af86")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP302" (at 0 -1.8 90) (layer "F.SilkS") hide
